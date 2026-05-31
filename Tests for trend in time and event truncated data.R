@@ -119,7 +119,7 @@ ELRafixdiscrete <- function(tvec,a=0.5,cv=1){
 }
 
 
-# Test statistics for the tests for trend in event truncated data
+# Test statistics for the tests for trend in time truncated data
 # For our purpose, findCV() = findfailCV() which can be found in:
 # Methods of estimating the coefficient of variation.R
 
