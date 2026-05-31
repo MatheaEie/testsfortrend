@@ -1,5 +1,5 @@
 # testsfortrend
-R code developed for "tests for trend in time and event truncated recurrent events data", Master's thesis, University of Stavanger 2026.
+R code developed for "Tests for trend in time and event truncated recurrent events data", Master's thesis, University of Stavanger 2026.
 
 Tests for trend in time and event truncated truncated data.R contains codes for the test statistics the LR, KS, CvM, AD, and ELR type tests for time and event truncated data.
 The codes for the tests for trend in time truncated data found here are taken from https://github.com/jtkgithub/trendtests.
